@@ -1,6 +1,7 @@
 Refer to presentation.pdf to get a general overview of work done. 
 
-altx2bund includes demo version of our XRF calculations. Optimized weights are printed out in the terminal (set Xset.chatter and Xset.logChatter = False to turn it off in define_xrf_localmodel.py).
+altx2bund includes demo version of our XRF calculations. Optimized weights are printed out in the terminal 
+(set Xset.chatter and Xset.logChatter to False to turn it off in define_xrf_localmodel.py).
 
 Our novelties include 
 
