@@ -9,3 +9,6 @@ get_constants_xrf_new_V2.py -> element-wise cross sections of photoelectric atte
 rayleigh_compute.py -> Scattering integral with the assumption of coherent scattering off a matrix of elements on Lunar surface.
 
 To run the code, change response_path to pwd/test in define_xrf_localmodel.py. 
+
+
+@authors: Krishna Balaji, Aadyot Bhardwaj, Yeswanth Patnana, Aditya Mohapatra, Ganesh Balaji, Vatsal Ramanuj et al. (Team IIT Madras)
